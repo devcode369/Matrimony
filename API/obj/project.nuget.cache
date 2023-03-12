@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dMczAmNcOTs9CRctasX+ywnTOdAhlSusLuZqKDtVnG0I6lhEoQGnD+v9TT2GfHTryWKEpcFDoXDw2+FvcwJw7Q==",
+  "dgSpecHash": "gOnFKbbpf2S4EFDAz3GXGD9byyosxipMcMm3UYAMJKqhJeQ3LgoM7zJG8GdQXhc3PrgrMDq3CVtS9Xkl/Q/L4A==",
   "success": true,
-  "projectFilePath": "C:\\ProjectsLearn\\Matrimony\\API\\API.csproj",
+  "projectFilePath": "C:\\ProjectsLearn\\Matrimony\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devsa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\devsa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",

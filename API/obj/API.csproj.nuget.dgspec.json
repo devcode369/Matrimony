@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjectsLearn\\Matrimony\\API\\API.csproj": {}
+    "C:\\ProjectsLearn\\Matrimony\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\ProjectsLearn\\Matrimony\\API\\API.csproj": {
+    "C:\\ProjectsLearn\\Matrimony\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectsLearn\\Matrimony\\API\\API.csproj",
+        "projectUniqueName": "C:\\ProjectsLearn\\Matrimony\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\ProjectsLearn\\Matrimony\\API\\API.csproj",
+        "projectPath": "C:\\ProjectsLearn\\Matrimony\\api\\API.csproj",
         "packagesPath": "C:\\Users\\devsa\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectsLearn\\Matrimony\\API\\obj\\",
+        "outputPath": "C:\\ProjectsLearn\\Matrimony\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devsa\\AppData\\Roaming\\NuGet\\NuGet.Config",

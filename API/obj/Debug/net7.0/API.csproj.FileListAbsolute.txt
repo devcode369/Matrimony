@@ -1,5 +1,4 @@
 C:\ProjectsLearn\Matrimony\API\bin\Debug\net7.0\appsettings.Development.json
-C:\ProjectsLearn\Matrimony\API\bin\Debug\net7.0\appsettings.json
 C:\ProjectsLearn\Matrimony\API\bin\Debug\net7.0\API.exe
 C:\ProjectsLearn\Matrimony\API\bin\Debug\net7.0\API.deps.json
 C:\ProjectsLearn\Matrimony\API\bin\Debug\net7.0\API.runtimeconfig.json
